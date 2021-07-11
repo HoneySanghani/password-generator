@@ -14,7 +14,7 @@ Javacript
 https://HoneySanghani.github.io/password-generator/
 
 ## Repository
-
+https://github.com/HoneySanghani/password-generator.git
 
 ## Contribution
 Made with ❤️ by Honey Sanghani
